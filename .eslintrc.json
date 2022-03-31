@@ -1,0 +1,9 @@
+{
+  "extends": [
+    " plugin:react/recommended ",
+    " airbnb ",
+    " airbnb/hooks ",
+    "next",
+    " plugin:@next/next/recommended "
+  ]
+}
